@@ -10,5 +10,9 @@ class Hello {
         public void show() {
             System.out.println("Hello, Git");
         }
+
+        public void delete() {
+            System.out.println("Deleting");
+        }
     }
 }
