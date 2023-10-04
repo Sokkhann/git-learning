@@ -6,5 +6,9 @@ class Hello {
         public void msg() {
             System.out.println("Hello");
         }
+
+        public void show() {
+            System.out.println("Hello, Git");
+        }
     }
 }
